@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 1999,
+    "category": "Electronics",
+    "rating": 4.8,
+    "stock": true,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "reviews": [
+      "Excellent sound quality!",
+      "Worth every rupee.",
+      "Battery backup is amazing."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "price": 2499,
+    "category": "Fashion",
+    "rating": 4.5,
+    "stock": true,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+    "reviews": [
+      "Very comfortable.",
+      "Good for jogging.",
+      "Nice design."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch",
+    "price": 3499,
+    "category": "Accessories",
+    "rating": 4.7,
+    "stock": false,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500",
+    "reviews": [
+      "Display is very clear.",
+      "Battery lasts long.",
+      "Many useful features."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "School Backpack",
+    "price": 999,
+    "category": "Bags",
+    "rating": 4.3,
+    "stock": true,
+    "image": "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?w=500",
+    "reviews": [
+      "Good quality bag.",
+      "Spacious and strong.",
+      "Value for money."
+    ]
+  }
+]
